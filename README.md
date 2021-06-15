@@ -1,1 +1,1 @@
-# TEGA
+# Trabajo especial de grado en Arquitectura
