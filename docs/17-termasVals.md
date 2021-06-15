@@ -5,7 +5,7 @@ sidebar_label: "Peter Zumthor"
 custom_edit_url: https://github.com/angelpinha/TEGA/blob/master/docs/17-termasVals.md
 ---
 
-# Peter Zumthor: *Termas de Vals*
+# Peter Zumthor: Termas de Vals
  
 > Mi manera de inventar la arquitectura siempre empieza con una imagen clara, no solo con una idea; La idea, va siempre acompañada de una imagen clara, con la visualización de un acontecimiento corpóreo o físico. No es una idea abstracta. Estas primeras imágenes son ingenuas en un sentido casi infantil: me gustan mucho. Durante todo el proceso de desarrollo del edificio, procuro que esta imagen se convierta en arquitectura. Una arquitectura que exista por ella misma.
 >

@@ -5,7 +5,7 @@ sidebar_label: "Steven Holl"
 custom_edit_url: https://github.com/angelpinha/TEGA/blob/master/docs/19-nelsonAtkins.md
 ---
 
-# Steven Holl: *Ampliación del Museo de arte Nelson Atkins*
+# Steven Holl: Ampliación del Museo de arte Nelson Atkins
 
 > La ampliación del Museo de Arte Nelson Atkins, fusiona la arquitectura con su entorno para crear una arquitectura experiencial que se despliega para los visitantes tal como se percibe, con el movimiento de cada individuo a través del espacio y el tiempo.
 > 

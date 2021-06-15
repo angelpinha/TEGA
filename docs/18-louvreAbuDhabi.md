@@ -5,7 +5,7 @@ sidebar_label: "Jean Nouvel"
 custom_edit_url: https://github.com/angelpinha/TEGA/blob/master/docs/18-louvreAbuDhabi.md
 ---
 
-# Jean Nouvel: *Museo Louvre de Abu Dhabi*
+# Jean Nouvel: Museo Louvre de Abu Dhabi
 
 <img src={require('./src/louvreAbuDhabi/001-louvreAbuDhabi.jpg').default} alt="louvreAbuDhabi" class="center" />
 

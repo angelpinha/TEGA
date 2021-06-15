@@ -5,7 +5,7 @@ sidebar_label: "Tadao Ando"
 custom_edit_url: https://github.com/angelpinha/TEGA/blob/master/docs/16-casaAzuma.md
 ---
 
-# Tadao Ando: *Casa Azuma*
+# Tadao Ando: Casa Azuma
 
 <img src={require('./src/casaAzuma/001-casaAzuma.jpg').default} alt="fachadaPrincipal" class="center" />
 
