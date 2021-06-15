@@ -1,11 +1,11 @@
 ---
 id: sintesisBarragan
-title: Recopilación del pensamiento y criterios en las obras de Luis Barragán
+title: Recopilación del pensamiento y criterios en la obra de Luis Barragán
 sidebar_label: Pensamiento de Luis Barragán
 custom_edit_url: https://github.com/angelpinha/TEGA/blob/master/docs/14-sintesisBarragan.md
 ---
 
-# Recopilación del pensamiento y criterios en las obras de Luis Barragán
+# Recopilación del pensamiento y criterios en la obra de Luis Barragán
 
 <!-- # Síntesis de obra y pensamiento de Luis Barragán -->
 
