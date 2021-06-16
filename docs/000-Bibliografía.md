@@ -110,3 +110,9 @@ custom_edit_url: https://github.com/angelpinha/TEGA/blob/master/docs/000-bibliog
 **Duque, K. (2012, octubre 21).** Clásicos de Arquitectura: Torres de Satélite, Luis Barragán. ArchDaily México. https://www.archdaily.mx/mx/02-200590/clasicos-de-arquitectura-torres-de-satelite-luis-barragan
 
 **Arquine. (2013).** Barragán. https://i0.wp.com/www.arquine.com/wp-content/uploads/2013/03/amc_17320_a_3001.jpg
+
+**Ornelas, A. M. (2011, enero 11).** Casa Estudio Luis Barragan. Flickr. https://www.flickr.com/photos/aaron_mtz/5353309349/
+
+**Luque, E. (2018, noviembre 21).** Galería de Clásicos de Arquitectura: Casa Gilardi / Luis Barragán. ArchDaily México. https://www.archdaily.mx/mx/02-123630/clasicos-de-arquitectura-casa-gilardi-luis-barragan/5bf4911c08a5e546960007e8-clasicos-de-arquitectura-casa-gilardi-luis-barragan-foto
+
+**Carter Brown, J., Lord Clark of Saltwood, Isozaki, A., Johnson, P., Irwin Miller, J., Pelli, C., Smith, C., & Drexler, A. (1980).** Luis Barragán. The Pritzker Architecture Prize. https://www.pritzkerprize.com/laureates/1980

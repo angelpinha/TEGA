@@ -186,7 +186,7 @@ Destacan el uso del color como un elemento compositivo esencial, el apego a las 
 > Casa Estudio,
 > Ciudad de México - México,
 > (1948).
-> Luis Barragán.
+> Luis Barragán.[^17]
 
 Continúa esta etapa creativa, con la construcción de nuevos proyectos. En el año 1953, inicia el proyecto de la *Capilla de Tlalpan*, en el convento de las monjas Capuchinas Sacramentarias, finalizada en el año 1960.
 
@@ -202,11 +202,9 @@ A continuación, la *casa Gilardi*, construida entre 1975 y 1977, constituye su 
 > *Casa Gilardi*,
 > Ciudad de México - México,
 > (1975-1978).
-> Luis Barragán.
+> Luis Barragán.[^18]
 
-La arquitectura de Barragán resulta representativa, debido a que su búsqueda arquitectónica se refleja como un arte que encierra diversas perspectivas simultáneas, tomando en cuenta valores culturales, el entorno natural, la manipulación del color y la luz, desencadenando una intensa experiencia de emociones por parte de quien aprecia su obra; en este sentido, establece un arte de calidad universal, merecedora del mayor galardón otorgado a los arquitectos del mundo, el *Premio Pritzker*, obtenido en el año 1980.
-
-<!-- Por hacer: Colocar referencia de la página del pritzker. -->
+La arquitectura de Barragán resulta representativa, debido a que su búsqueda arquitectónica se refleja como un arte que encierra diversas perspectivas simultáneas, tomando en cuenta valores culturales, el entorno natural, la manipulación del color y la luz, desencadenando una intensa experiencia de emociones por parte de quien aprecia su obra; en este sentido, establece un arte de calidad universal, merecedora del mayor galardón otorgado a los arquitectos del mundo, el *Premio Pritzker*, obtenido en el año 1980.[^19]
 
 [^1]: Según **(Vázquez Ángeles, 2014)**, en referencia a la obra *The new mexican architecture* por *Ester Born* editada en 1937, quien tuvo la oportunidad de ayudar a visibilizar la obra de Barragán en Estados Unidos, lo retrata con la siguientes declaraciones: *«Una nota encantadora de capricho y diversión en contraste con la sencilla arquitectura ha sido dada por el inteligente uso del color en todos los edificios. Luis Barragán, el más joven del grupo, ha sido exitoso en su imaginativo uso del color en la arquitectura moderna. Su natural y sensible percepción estética nunca ha encontrado satisfacción en la restricción de la paleta popularmente asociada con el estilo internacional.»*
 
@@ -239,3 +237,18 @@ La arquitectura de Barragán resulta representativa, debido a que su búsqueda a
 [^15]: **Duque, K. (2012, octubre 21).** Clásicos de Arquitectura: Torres de Satélite, Luis Barragán. ArchDaily México. https://www.archdaily.mx/mx/02-200590/clasicos-de-arquitectura-torres-de-satelite-luis-barragan
 
 [^16]: **Arquine. (2013).** Barragán. *Enlace:* https://i0.wp.com/www.arquine.com/wp-content/uploads/2013/03/amc_17320_a_3001.jpg
+
+[^17]: **Ornelas, A. M. (2011, enero 11).** Casa Estudio Luis Barragan. Flickr. *Enlace:* https://www.flickr.com/photos/aaron_mtz/5353309349/
+
+[^18]: **Luque, E. (2018, noviembre 21).** Galería de Clásicos de Arquitectura: Casa Gilardi / Luis Barragán. ArchDaily México. *Enlace:* https://www.archdaily.mx/mx/02-123630/clasicos-de-arquitectura-casa-gilardi-luis-barragan/5bf4911c08a5e546960007e8-clasicos-de-arquitectura-casa-gilardi-luis-barragan-foto
+
+We are honoring Luis Barragán for his commitment to architecture as a sublime act of the poetic imagination. He has created gardens, plazas, and fountains of haunting beauty—metaphysical landscapes for meditation and companionship.
+
+A stoical acceptance of solitude as man's fate permeates Barragán's work. His solitude is cosmic, with Mexico as the temporal abode he lovingly accepts. It is to the greater glory of this earthly house that he has created gardens where man can make peace with himself, and a chapel where his passions and desire may be forgiven and his faith proclaimed. The garden is the myth of the Beginning and the chapel that of the End. For Barragán, architecture is the form man gives to his life between both extremes.
+
+
+Honramos a Luis Barragán por su apuesta por la arquitectura como acto sublime de la imaginación poética. Ha creado jardines, plazas y fuentes de una belleza inquietante, paisajes metafísicos para la meditación y el compañerismo.
+
+Una aceptación estoica de la soledad como destino del hombre impregna la obra de Barragán. Su soledad es cósmica, con México como la morada temporal que acepta amorosamente. Para mayor gloria de esta casa terrena ha creado jardines donde el hombre puede hacer las paces consigo mismo, y una capilla donde sus pasiones y deseos pueden ser perdonados y su fe proclamada. El jardín es el mito del Principio y la capilla el del Fin. Para Barragán, la arquitectura es la forma que el hombre da a su vida entre ambos extremos.
+
+[^19]: Según **(Carter Brown et al., 1980)** para *The Pritzker Architecture Prize*, *«Honramos a Luis Barragán por su apuesta a la arquitectura como acto sublime de la imaginación poética. Ha creado jardines, plazas y fuentes de una belleza inquietante, paisajes metafísicos para la meditación y la compañía. Una aceptación estoica de la sociedad como destino del hombre impregna la obra de Barragán. Su soledad es cósmica, con México como la morada temporal que acepta amorosamente. Para mayor gloria de esta casa terrenal ha creado creado jardines donde el hombre puede hacer las paces consigo mismo, y una capilla donde sus pasiones y deseos pueden ser perdonados y su fe proclamada. El jardín es el mito del Principio y la capilla el del Fin. Para Barragán, la arquitectura es la forma que el hombre da a su vida ambos extremos.»*
