@@ -15,6 +15,7 @@ custom_edit_url: https://github.com/angelpinha/TEGA/blob/master/docs/13-casaGila
 
 <!-- ![casaGilardi](./src/casaGilardi/001-casaGilardi-Barragan-1975.jpg) -->
 
+> **Figura 37:**
 > Fachada principal de la vivienda.
 >
 > *Casa Gilardi*,
@@ -34,6 +35,7 @@ El edificio se desarrolla principalmente con la agrupación de funciones esencia
 
 <!-- ![casaGilardi](./src/casaGilardi/002-casaGilardi-Barragan-1975.jpg) -->
 
+> **Figura 38:**
 > Patio central de la vivienda.
 >
 > *Casa Gilardi*,
@@ -49,6 +51,7 @@ La vivienda se puede interpretar con mayor claridad a través de tres aspectos f
 
 <!-- ![casaGilardi](./src/casaGilardi/003-casaGilardi-Barragan-1975.jpg) -->
 
+> **Figura 39:**
 > Vista desde el interior del patio central.
 >
 > *Casa Gilardi*,
@@ -62,6 +65,7 @@ La vivienda se puede interpretar con mayor claridad a través de tres aspectos f
 
 <!-- ![casaGilardi](./src/casaGilardi/004-casaGilardi-Barragan-1975.jpg) -->
 
+> **Figura 40:**
 > Manipulación de las características de la luz como elemento integral del recorrido.
 >
 > *Casa Gilardi*,
@@ -75,6 +79,7 @@ La vivienda se puede interpretar con mayor claridad a través de tres aspectos f
 
 <!-- ![casaGilardi](./src/casaGilardi/005-casaGilardi-Barragan-1975.jpg) -->
 
+> **Figura 41:**
 > Manipulación de tonalidad de la luz natural a través de elementos aruitectónicos.
 >
 > *Casa Gilardi*,
@@ -88,6 +93,7 @@ De esta forma, el recorrido de la vivienda nos invita a desarrollar una procesi�
 
 <!-- ![casaGilardi](./src/casaGilardi/006-casaGilardi-Barragan-1975.jpg) -->
 
+> **Figura 42:**
 > Corredor principal de la vivienda.
 >
 > *Casa Gilardi*,
@@ -101,10 +107,11 @@ Finalmente, en el área destinada al comedor y la alberca, ocurre el punto de in
 
 <!-- ![casaGilardi](./src/casaGilardi/007-casaGilardi-Barragan-1975.jpg) -->
 
-> La manipulación de los elementos arquitectónicos para aprovechar la incidencia de la luz en el área de la alberca, podría considerarse análogo al funcionamiento de un reloj solar.
-
 <!-- PorHacer: colocar la nota de la imagen a pié de página -->
 
+> **Figura 43:**
+> La manipulación de los elementos arquitectónicos para aprovechar la incidencia de la luz en el área de la alberca, podría considerarse análogo al funcionamiento de un reloj solar.
+> 
 > *Casa Gilardi*,
 > Ciudad de México - México,
 > (1975-1978).

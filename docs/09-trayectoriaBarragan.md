@@ -242,13 +242,4 @@ La arquitectura de Barragán resulta representativa, debido a que su búsqueda a
 
 [^18]: **Luque, E. (2018, noviembre 21).** Galería de Clásicos de Arquitectura: Casa Gilardi / Luis Barragán. ArchDaily México. *Enlace:* https://www.archdaily.mx/mx/02-123630/clasicos-de-arquitectura-casa-gilardi-luis-barragan/5bf4911c08a5e546960007e8-clasicos-de-arquitectura-casa-gilardi-luis-barragan-foto
 
-We are honoring Luis Barragán for his commitment to architecture as a sublime act of the poetic imagination. He has created gardens, plazas, and fountains of haunting beauty—metaphysical landscapes for meditation and companionship.
-
-A stoical acceptance of solitude as man's fate permeates Barragán's work. His solitude is cosmic, with Mexico as the temporal abode he lovingly accepts. It is to the greater glory of this earthly house that he has created gardens where man can make peace with himself, and a chapel where his passions and desire may be forgiven and his faith proclaimed. The garden is the myth of the Beginning and the chapel that of the End. For Barragán, architecture is the form man gives to his life between both extremes.
-
-
-Honramos a Luis Barragán por su apuesta por la arquitectura como acto sublime de la imaginación poética. Ha creado jardines, plazas y fuentes de una belleza inquietante, paisajes metafísicos para la meditación y el compañerismo.
-
-Una aceptación estoica de la soledad como destino del hombre impregna la obra de Barragán. Su soledad es cósmica, con México como la morada temporal que acepta amorosamente. Para mayor gloria de esta casa terrena ha creado jardines donde el hombre puede hacer las paces consigo mismo, y una capilla donde sus pasiones y deseos pueden ser perdonados y su fe proclamada. El jardín es el mito del Principio y la capilla el del Fin. Para Barragán, la arquitectura es la forma que el hombre da a su vida entre ambos extremos.
-
 [^19]: Según **(Carter Brown et al., 1980)** para *The Pritzker Architecture Prize*, *«Honramos a Luis Barragán por su apuesta a la arquitectura como acto sublime de la imaginación poética. Ha creado jardines, plazas y fuentes de una belleza inquietante, paisajes metafísicos para la meditación y la compañía. Una aceptación estoica de la sociedad como destino del hombre impregna la obra de Barragán. Su soledad es cósmica, con México como la morada temporal que acepta amorosamente. Para mayor gloria de esta casa terrenal ha creado creado jardines donde el hombre puede hacer las paces consigo mismo, y una capilla donde sus pasiones y deseos pueden ser perdonados y su fe proclamada. El jardín es el mito del Principio y la capilla el del Fin. Para Barragán, la arquitectura es la forma que el hombre da a su vida ambos extremos.»*

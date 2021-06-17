@@ -24,6 +24,7 @@ custom_edit_url: https://github.com/angelpinha/TEGA/blob/master/docs/10-casaGonz
 
 <!-- ![casaGonzalezLuna](./src/casaGonzalezLuna/001-gonzalezLuna-Barragan-1929.jpg) -->
 
+> **Figura 22:**
 > *Casa González Luna*.
 > Guadalajara - México,
 > (1929 - 1930).
@@ -37,6 +38,7 @@ En cuanto al ámbito formal compositivo, destaca la influencia por la arquitectu
 
 <!-- ![casaGonzalezLuna](./src/casaGonzalezLuna/002-gonzalezLuna-Barragan-1929.jpg) -->
 
+> **Figura 23:**
 > *Fuente y entorno natural de la Casa González Luna*.
 > Guadalajara - México,
 > (1929 - 1930).
@@ -56,6 +58,7 @@ En el núcleo de circulación vertical de la vivienda, el empleo de estrechos ve
 
 <!-- ![casaGonzalezLuna](./src/casaGonzalezLuna/003-gonzalezLuna-Barragan-1929.jpg) -->
 
+> **Figura 24:**
 > *Núcleo de circulación vertical de la Casa González Luna*.
 > Guadalajara - México,
 > (1929 - 1930).

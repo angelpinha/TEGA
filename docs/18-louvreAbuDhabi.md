@@ -11,6 +11,7 @@ custom_edit_url: https://github.com/angelpinha/TEGA/blob/master/docs/18-louvreAb
 
 <!-- ![louvreAbuDhabi](./src/louvreAbuDhabi/001-louvreAbuDhabi.jpg) -->
 
+> **Figura 57:**
 > Vista exterior del conjunto.
 >
 > *Museo Louvre*,
@@ -43,6 +44,7 @@ Jean Nouvel diseña el Louvre de Abu Dhabi inspirado en la cultura tradicional �
 
 <!-- ![louvreAbuDhabi](./src/louvreAbuDhabi/002-louvreAbuDhabi.jpg) -->
 
+> **Figura 58:**
 > Representación del proyeto en conjunto.
 >
 > *Museo Louvre*,
@@ -56,6 +58,7 @@ Una gran cúpula de 180 metros de diámetro, visible desde el mar, los alrededor
 
 <!-- ![louvreAbuDhabi](./src/louvreAbuDhabi/003-louvreAbuDhabi.jpg) -->
 
+> **Figura 59:**
 > Diseño iterativo por capas de la cúpula.
 >
 > *Museo Louvre*,
@@ -69,6 +72,7 @@ El patrón complejo de la cúpula, resulta de una estudiada propuesta geométric
 
 <!-- ![louvreAbuDhabi](./src/louvreAbuDhabi/004-louvreAbuDhabi.jpg) -->
 
+> **Figura 60:**
 > Efecto "lluvia de luz" en imágen conceptual.
 >
 > *Museo Louvre*,
@@ -82,6 +86,7 @@ Sólo cuatro pilares soportan la cúpula, cada uno separado por una distancia de
 
 <!-- ![louvreAbuDhabi](./src/louvreAbuDhabi/005-louvreAbuDhabi.jpg) -->
 
+> **Figura 61:**
 > La monumentalidad de la cúpula, delimita el espacio y la percepción sensorial del usuario.
 >
 > *Museo Louvre*,
@@ -95,6 +100,7 @@ El diseño del museo representa una síntesis entre el diseño tradicional y las
 
 <!-- ![louvreAbuDhabi](./src/louvreAbuDhabi/006-louvreAbuDhabi.jpg) -->
 
+> **Figura 62:**
 > El efecto "lluvia de luz", es visible durante el día.
 >
 > *Museo Louvre*,

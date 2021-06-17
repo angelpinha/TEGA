@@ -15,6 +15,7 @@ custom_edit_url: https://github.com/angelpinha/TEGA/blob/master/docs/19-nelsonAt
 
 <!-- ![nelsonAtkins](./src/nelsonAtkins/001-nelsonAtkins.jpg) -->
 
+> **Figura 63:**
 > Ampliación del Museo de Arte Nelson Atkins, *contraste complementario* entre edificaciones.
 >
 > *Museo de arte Nelson Atkins*,
@@ -28,6 +29,7 @@ La nueva ampliación llamada "The Bloch Building", se acopla con el jardín de e
 
 <!-- ![nelsonAtkins](./src/nelsonAtkins/002-nelsonAtkins.jpg) -->
 
+> **Figura 64:**
 > Configuración espacial y funcional del proyecto arqutiectónico.
 >
 > *Museo de arte Nelson Atkins*,
@@ -41,6 +43,7 @@ El movimiento entrelazado entre las *linternas captadoras de luz* de la nueva in
 
 <!-- ![nelsonAtkins](./src/nelsonAtkins/003-nelsonAtkins.jpg) -->
 
+> **Figura 65:**
 > Relación de los recorridos exteriores con las obras existentes.
 >
 > *Museo de arte Nelson Atkins*,
@@ -54,6 +57,7 @@ La primera de las cinco "linternas" conforma un lobby luminoso y transparente, c
 
 <!-- ![nelsonAtkins](./src/nelsonAtkins/004-nelsonAtkins.jpg) -->
 
+> **Figura 66:**
 > Recorrido subterráneo de las galerías.
 >
 > *Museo de arte Nelson Atkins*,
@@ -67,6 +71,7 @@ Durante la noche, el volumen del lobby se enciende con luz artificial e irradia 
 
 <!-- ![nelsonAtkins](./src/nelsonAtkins/005-nelsonAtkins.jpg) -->
 
+> **Figura 67:**
 > Iluminación artificial del edificio en contexto nocturno.
 >
 > *Museo de arte Nelson Atkins*,
@@ -80,6 +85,7 @@ Durante el día, las linternas inyectan las cualidades variables de la luz dentr
 
 <!-- ![nelsonAtkins](./src/nelsonAtkins/006-nelsonAtkins.jpg) -->
 
+> **Figura 68:**
 > La refracción de la luz natural durante el día, complementando los usos de la edificación.
 >
 > *Museo de arte Nelson Atkins*,
@@ -95,6 +101,7 @@ El diseño para la nueva adición, utiliza conceptos de edificaciones sostenible
 
 <!-- ![nelsonAtkins](./src/nelsonAtkins/007-nelsonAtkins.jpg) -->
 
+> **Figura 69:**
 > Iluminación natural interior de la edificación.
 >
 > *Museo de arte Nelson Atkins*,
@@ -116,6 +123,7 @@ Las cavidades de doble vidrio de las claraboyas, recogen los vientos cálidos du
 
 <!-- ![nelsonAtkins](./src/nelsonAtkins/008-nelsonAtkins.jpg) -->
 
+> **Figura 70:**
 > Sección de los elementos estructurales "Breathing T's".
 >
 > *Museo de arte Nelson Atkins*,
@@ -129,6 +137,7 @@ Una planta de servicio contínua en el sótano, bajo el nivel de las galerías, 
 
 <!-- ![nelsonAtkins](./src/nelsonAtkins/009-nelsonAtkins.jpg) -->
 
+> **Figura 71:**
 > Efectos lumínicos a través de elementos estructurales.
 >
 > *Museo de arte Nelson Atkins*,

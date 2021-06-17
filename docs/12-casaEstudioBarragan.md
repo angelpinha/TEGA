@@ -15,6 +15,7 @@ custom_edit_url: https://github.com/angelpinha/TEGA/blob/master/docs/12-casaEstu
 
 <!-- ![casaEstudioBarragan](./src/casaEstudioBarragan/001-casaEstudio-Barragan-1948.jpg) -->
 
+> **Figura 30:**
 > Corredor de acceso principal a la Casa Estudio.
 >
 > *Casa estudio*,
@@ -38,6 +39,7 @@ La vivienda se desarrolla y se remodela en repetidas ocasiones para adaptarse a 
 
 <!-- ![casaEstudioBarragan](./src/casaEstudioBarragan/002-casaEstudio-Barragan-1948.jpg) -->
 
+> **Figura 31:**
 > Desarrollo espacial en el interior de la vivienda.
 >
 > *Casa estudio*,
@@ -51,6 +53,7 @@ La aplicación de este concepto, no solamente se observa en las secuencias espac
 
 <!-- ![casaEstudioBarragan](./src/casaEstudioBarragan/003-casaEstudio-Barragan-1948.jpg) -->
 
+> **Figura 32:**
 > El plano superior como elemento integrador del espacio.
 >
 > *Casa Estudio*,
@@ -64,10 +67,10 @@ El oficio de Barragán al generar arquitectura residencial, consiste en el apren
 
 <!-- ![casaEstudioBarragan](./src/casaEstudioBarragan/004-casaEstudio-Barragan-1948.jpg) -->
 
-> La geometría de la vivienda aprovecha el recurso de la luz para enriquecer el espacio.
-
 <!-- PorHacer: nota a pié de página y colocar en la descripción que área es esa -->
-
+> **Figura 33:**
+> La geometría de la vivienda aprovecha el recurso de la luz para enriquecer el espacio.
+> 
 > *Casa Estudio*,
 > Ciudad de México - México,
 > (1948).
@@ -79,6 +82,7 @@ Por otra parte, el elemento ventana ubicado en la sala-comedor de la vivienda, h
 
 <!-- ![casaEstudioBarragan](./src/casaEstudioBarragan/005-casaEstudio-Barragan-1948.jpg) -->
 
+> **Figura 34:**
 > Integración espacial entre el interior y exterior de la vivienda.
 >
 > *Casa Estudio*,
@@ -92,6 +96,7 @@ Así, la consecución de espacios que supone el recorrido, la extensión o contr
 
 <!-- ![casaEstudioBarragan](./src/casaEstudioBarragan/006-casaEstudio-Barragan-1948.jpg) -->
 
+> **Figura 35:**
 > *Casa Estudio*,
 > Ciudad de México - México,
 > (1948).
@@ -103,6 +108,7 @@ Eventualmente, la vivienda de Barragán se caracteriza por desarrollar un patio 
 
 <!-- ![casaEstudioBarragan](./src/casaEstudioBarragan/007-casaEstudio-Barragan-1948.jpg) -->
 
+> **Figura 36:**
 > *Patio superior de la Casa Estudio*,
 > Ciudad de México - México,
 > (1948).

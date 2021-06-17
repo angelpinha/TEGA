@@ -17,6 +17,7 @@ custom_edit_url: https://github.com/angelpinha/TEGA/blob/master/docs/17-termasVa
 
 <!-- ![termasVals](./src/termasVals/001-termasVals.jpg) -->
 
+> **Figura 50:**
 > Fachada sureste de la edificación.
 >
 > *Termas de Vals*,
@@ -32,6 +33,7 @@ Los nuevos baños termales, comprenden una estructura independiente sobre el inc
 
 <!-- ![termasVals](./src/termasVals/002-termasVals.jpg) -->
 
+> **Figura 51:**
 > Integración del edificio con su contexto inmediato.
 >
 > *Termas de Vals*,
@@ -45,6 +47,7 @@ Se trata de un edificio solitario, que resiste la integración formal con la est
 
 <!-- ![termasVals](./src/termasVals/003-termasVals.jpg) -->
 
+> **Figura 52:**
 > Implementación del edificio en la topografía.
 >
 > *Termas de Vals*,
@@ -62,6 +65,7 @@ Desde un principio, Zumthor experimenta un sentimiento por la naturaleza místic
 
 <!-- ![termasVals](./src/termasVals/004-termasVals.jpg) -->
 
+> **Figura 53:**
 > Composición lumínica en espacios interiores.
 >
 > *Termas de Vals*,
@@ -77,6 +81,7 @@ Un espacio continuo compuesto de un sistema de cuevas geométricas, se desarroll
 
 <!-- ![termasVals](./src/termasVals/005-termasVals.jpg) -->
 
+> **Figura 54:**
 > Conceptualización en planta del sistema de cuevas por Peter Zumthor.
 >
 > *Termas de Vals*,
@@ -90,6 +95,7 @@ Los submódulos estructurales internos cubiertos por losas individuales, compone
 
 <!-- ![termasVals](./src/termasVals/006-termasVals.jpg) -->
 
+> **Figura 55:**
 > Termas interiores.
 >
 > *Termas de Vals*,
@@ -103,6 +109,7 @@ La perspectiva interna, generada por la composición de los elementos arquitect�
 
 <!-- ![termasVals](./src/termasVals/007-termasVals.jpg) -->
 
+> **Figura 56:**
 > Relación visual entre el edificio y el entorno natural.
 >
 > *Termas de Vals*,

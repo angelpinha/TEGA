@@ -11,6 +11,7 @@ custom_edit_url: https://github.com/angelpinha/TEGA/blob/master/docs/16-casaAzum
 
 <!-- ![fachadaPrincipal](./src/casaAzuma/001-casaAzuma.jpg) -->
 
+> **Figura 46:**
 > Fachada principal de la vivienda.
 >
 > *Casa Azuma*,
@@ -26,6 +27,7 @@ El edificio presenta una fachada ciega a la calle. Solo la cavidad que constituy
 
 <!-- ![patioCentral](./src/casaAzuma/002-casaAzuma.jpg) -->
 
+> **Figura 47:**
 > Patio central de la vivienda.
 >
 > *Casa Azuma*,
@@ -39,6 +41,7 @@ Se trata de una caja de hormigón que ocupa todo el solar. La organización espa
 
 <!-- ![seccionLongitudinal](./src/casaAzuma/003-casaAzuma.jpg) -->
 
+> **Figura 48:**
 > Sección longitudinal.
 >
 > *Casa Azuma*,
@@ -50,6 +53,7 @@ Se trata de una caja de hormigón que ocupa todo el solar. La organización espa
 
 <!-- ![habitacion](./src/casaAzuma/004-casaAzuma.jpg) -->
 
+> **Figura 49:**
 > Habitación interior en relación directa con el patio central.
 >
 > *Casa Azuma*,

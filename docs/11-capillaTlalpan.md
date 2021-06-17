@@ -13,6 +13,7 @@ La Capilla del Monasterio de Las Clarisas Capuchinas Sacramentarias, ubicada en 
 
 <!-- ![capillaTlalpan](./src/capillaTlalpan/001-capillaTlalpan-Barragan-1952.jpg) -->
 
+> **Figura 25:**
 > *Capilla de las Capuchinas Sacramentarias*.
 > Tlalpan, Ciudad de México - México,
 > (1952-1960).
@@ -28,6 +29,7 @@ El espacio interno formalmente de trazos limpios, se configura de tal manera, qu
 
 <!-- PorHacer: colocar esta leyenda a pié de página -->
 
+> **Figura 26:**
 > *Capilla de las Capuchinas Sacramentarias*.
 > Tlalpan, Ciudad de México - México,
 > (1952-1960).
@@ -43,6 +45,7 @@ La Capilla resulta de vital interés porque Barragán a través de ella, emplea 
 
 <!-- PorHacer: colocar esta leyenda a pié de página -->
 
+> **Figura 27:**
 > *Capilla de las Capuchinas Sacramentarias*.
 > Tlalpan, Ciudad de México - México,
 > (1952-1960).
@@ -54,6 +57,7 @@ El tono rosa y amarillo de los paramentos, bañan de su reflejo la totalidad del
 
 <!-- ![capillaTlalpan](./src/capillaTlalpan/004-capillaTlalpan-Barragan-1952.jpg) -->
 
+> **Figura 28:**
 > Filtrado de la luz con cristales tintados.
 >  
 > *Capilla de las Capuchinas Sacramentarias*.
@@ -67,6 +71,7 @@ En las áreas exteriores de transición, la sensación de privacidad y el aislam
 
 <!-- ![capillaTlalpan](./src/capillaTlalpan/005-capillaTlalpan-Barragan-1952.jpg) -->
 
+> **Figura 29:**
 > Uso de celosías laterales para la captación de luz indirecta.
 >
 > *Capilla de las Capuchinas Sacramentarias*,

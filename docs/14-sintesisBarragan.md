@@ -19,6 +19,7 @@ El discurso que expresa durante la ceremonia en la que se le otorga el premio Pr
 
 <!-- ![luisBarragan](./src/sintesisBarragan/001-luisBarragán.jpg) -->
 
+> **Figura 44:**
 > *Luis Ramiro Barragán Morfín*.
 >
 > Guadalajara, 9 de marzo de 1902 – Ciudad de México, 22 de noviembre de 1988.
@@ -91,6 +92,7 @@ Es conciencia del pasado, pero elevada a potencia poética, y como para el artis
 
 Mi socio y amigo el joven arquitecto Raúl Ferrera y el pequeño equipo de nuestro taller comparten conmigo los conceptos que tan rudimentaria e insuficientemente he intentado presentar ante ustedes. Hemos trabajado y seguiremos trabajando animados por la fe en la verdadera estética de esa ideología y con la esperanza de que nuestra labor, dentro de sus muy modestos límites, coopere en la gran tarea de dignificar la vida humana por los senderos de la belleza y contribuya a levantar un dique contra el oleaje de deshumanización y vulgaridad.
 
+> **Figura 45:**
 > *Discurso de Luis Barragán con motivo de recibimiento del premio Pritzker de arquitectura*
 >
 > Tomado de [Revista Arquine](https://www.arquine.com/el-discurso-de-luis-barragan/)
