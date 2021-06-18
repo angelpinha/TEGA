@@ -81,7 +81,7 @@ custom_edit_url: https://github.com/angelpinha/TEGA/blob/master/docs/000-bibliog
 
 **Born, E., Fernández, J., Born, E., & Record, A. (1937).** The New Architecture in Mexico. Architectural Record, W. Morrow.
 
-**Vázquez Ángeles, J. (2014, marzo).** El silencio y la palabra. Luis Barragán, Octavio Paz y el premio Pritzker. Ménades y Meninas, Vol I. *Enlace* https://www.uam.mx/difusion/casadeltiempo/02_i_mar_2014/casa_del_tiempo_eV_num_2_37_42.pdf
+**Vázquez Ángeles, J. (2014, marzo).** El silencio y la palabra. Luis Barragán, Octavio Paz y el premio Pritzker. Ménades y Meninas, Vol I. https://www.uam.mx/difusion/casadeltiempo/02_i_mar_2014/casa_del_tiempo_eV_num_2_37_42.pdf
 
 **Luis Barragán. (2021).** En Wikipedia, la enciclopedia libre. https://es.wikipedia.org/w/index.php?title=Luis_Barrag%C3%A1n&oldid=135515295
 
@@ -116,3 +116,17 @@ custom_edit_url: https://github.com/angelpinha/TEGA/blob/master/docs/000-bibliog
 **Luque, E. (2018, noviembre 21).** Galería de Clásicos de Arquitectura: Casa Gilardi / Luis Barragán. ArchDaily México. https://www.archdaily.mx/mx/02-123630/clasicos-de-arquitectura-casa-gilardi-luis-barragan/5bf4911c08a5e546960007e8-clasicos-de-arquitectura-casa-gilardi-luis-barragan-foto
 
 **Carter Brown, J., Lord Clark of Saltwood, Isozaki, A., Johnson, P., Irwin Miller, J., Pelli, C., Smith, C., & Drexler, A. (1980).** Luis Barragán. The Pritzker Architecture Prize. https://www.pritzkerprize.com/laureates/1980
+
+**Barragán, L. (2016).** Casa González Luna. WikiArquitectura. https://es.wikiarquitectura.com/edificio/casa-gonzalez-luna/
+
+**Barragán, L. (2016).** Casa González Luna. Novotop. https://i1.wp.com/egarq.files.wordpress.com/2016/07/architecture-photography-guadalajara-colonia-lafayette-casa-iteso-clavigero-luis-barragan-fotografia-arquitectura_ega7435.jpg
+
+**Barragán, L. (2020, marzo 9).** Capilla de las capuchinas sacramentarias. Iluminet. https://www.iluminet.com/luis-barragan-luz/
+
+**Barragán, L. (2018).** Capilla de las capuchinas sacramentarias. Pinterest. https://i.pinimg.com/originals/b0/0d/e8/b00de8d1d1eb25fca4d21f36380c27a6.jpg
+
+**Armando, S. (2020).** Capilla de las capuchinas sacramentarias. Rethinking Architecture. https://www.re-thinkingthefuture.com/wp-content/uploads/2020/07/A1299-Luis-Barragan-Ambiguity-in-Spaces-Image-8.jpg
+
+**Barragán, L. (2021).** Capuchin Convent Chapel. Barragan Foundation. https://www.barragan-foundation.org/works/list/capuchin-convent-chapel
+
+**Barragán, L. (2008).** Capilla de las capuchinas. Moleskine Arquitectónico. http://moleskinearquitectonico.blogspot.com/2008/08/capilla-de-las-capuchinas-barragn.html

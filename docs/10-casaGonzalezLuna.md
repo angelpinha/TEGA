@@ -28,7 +28,7 @@ custom_edit_url: https://github.com/angelpinha/TEGA/blob/master/docs/10-casaGonz
 > *Casa González Luna*.
 > Guadalajara - México,
 > (1929 - 1930).
-> Luis Barragán.
+> Luis Barragán.[^1]
 
 La parcela que apropia el proyecto se encuentra ubicada en la ciudad de Guadalajara en Jalisco - México, emplazada en una parcela de 1750 m<sup>2</sup>. Destaca de sus condiciones de emplazamiento, el hecho de que frente y fondo de la parcela están limitadas por una calle y una avenida, que le permite a Barragán articular un doble acceso en la fachada principal y trasera de la vivienda.
 
@@ -42,7 +42,7 @@ En cuanto al ámbito formal compositivo, destaca la influencia por la arquitectu
 > *Fuente y entorno natural de la Casa González Luna*.
 > Guadalajara - México,
 > (1929 - 1930).
-> Luis Barragán.
+> Luis Barragán.[^2]
 
 El aspecto estilístico del edificio hace referencia directa a la arquitectura del sur de España, aplicando el uso de elementos estructurales del estilo, de esta forma, se emplean arcadas en los estares exteriores que actúan como área social y elemento de umbral entre el interior y el exterior de la vivienda; además, en el nivel superior, se construyen terrazas al aire libre. En cuanto a elementos compositivos, se aprecian los abocinamientos en las ventanas y el énfasis a los accesos del volumen privado, a través del contraste que genera la pintura de colores llamativos en las puertas exteriores.
 
@@ -62,7 +62,7 @@ En el núcleo de circulación vertical de la vivienda, el empleo de estrechos ve
 > *Núcleo de circulación vertical de la Casa González Luna*.
 > Guadalajara - México,
 > (1929 - 1930).
-> Luis Barragán.
+> Luis Barragán.[^3]
 
 La aplicación de materiales locales en la construcción, como las paredes de adobe, piedra y ladrillo, propician la estabilidad térmica del edificio en el interior; asimismo, el uso de muros exteriores de considerable espesor, contribuyen a un aislamiento acústico que establece uno de los intereses concurrentes por parte de Barragán a la hora de realizar arquitectura residencial. La búsqueda de una arquitectura donde la introspección y el silencio sean acompañantes indispensables de quién la habita.
 
@@ -71,3 +71,10 @@ Los baños de luz dentro del edificio y la incorporación de la naturaleza, son 
 
 Destaca el uso del jardín como una herramienta de composición arquitectónica, que busca complentar la experiencia espacial del usuario, con los elementos propios de la naturaleza. En este caso, el jardín y la vivienda se entienden como una obra en conjunto.
 :::
+
+[^1]: **Barragán, L. (2016).** Casa González Luna. WikiArquitectura. *Enlace:* https://es.wikiarquitectura.com/edificio/casa-gonzalez-luna/
+
+[^2]: **Barragán, L. (2016).** Casa González Luna. Novotop. *Enlace:* https://i1.wp.com/egarq.files.wordpress.com/2016/07/architecture-photography-guadalajara-colonia-lafayette-casa-iteso-clavigero-luis-barragan-fotografia-arquitectura_ega7435.jpg
+
+[^3]: **Barragán, L. (2016).** Casa González Luna. WikiArquitectura. *Enlace:* https://es.wikiarquitectura.com/edificio/casa-gonzalez-luna/
+
