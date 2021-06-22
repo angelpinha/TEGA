@@ -1,13 +1,11 @@
 ---
 id: sintesisBarragan
-title: Recopilación del pensamiento y criterios en la obra de Luis Barragán
+title: Síntesis de obra y pensamiento de Luis Barragán
 sidebar_label: Pensamiento de Luis Barragán
 custom_edit_url: https://github.com/angelpinha/TEGA/blob/master/docs/14-sintesisBarragan.md
 ---
 
-# Recopilación del pensamiento y criterios en la obra de Luis Barragán
-
-<!-- # Síntesis de obra y pensamiento de Luis Barragán -->
+# Síntesis de obra y pensamiento de Luis Barragán
 
 :::note info
 El discurso que expresa durante la ceremonia en la que se le otorga el premio Pritzker a Luis Barragán, evidencia los principios que rigen su proceso de creación arquitectónica, de esta manera, podemos identificar los elementos clave que en adelante se conocen como los principios de su *arquitectura emocional*, con el objetivo de humanizar la creación arquitectónica y dignificar la vida de quien la habita. A continuación, se adjuntan las palabras de Barragán.
@@ -15,18 +13,16 @@ El discurso que expresa durante la ceremonia en la que se le otorga el premio Pr
 
 <img src={require('./src/sintesisBarragan/001-luisBarragán.jpg').default} alt="luisBarragan" class="center" />
 
-<!-- PorHacer: Fuente, Año y figura -->
-
 <!-- ![luisBarragan](./src/sintesisBarragan/001-luisBarragán.jpg) -->
 
 > **Figura 44:**
 > *Luis Ramiro Barragán Morfín*.
 >
-> Guadalajara, 9 de marzo de 1902 – Ciudad de México, 22 de noviembre de 1988.
+> Guadalajara, 9 de marzo de 1902 – Ciudad de México, 22 de noviembre de 1988.[^1]
 
 ## Ceremonia de Premiación del Premio Pritzker
 
-**Martes, 3 de junio de 1980.**
+**Martes, 3 de junio de 1980.**[^2]
 
 **Dumbarton Oaks, Estados Unidos.**
 
@@ -92,9 +88,6 @@ Es conciencia del pasado, pero elevada a potencia poética, y como para el artis
 
 Mi socio y amigo el joven arquitecto Raúl Ferrera y el pequeño equipo de nuestro taller comparten conmigo los conceptos que tan rudimentaria e insuficientemente he intentado presentar ante ustedes. Hemos trabajado y seguiremos trabajando animados por la fe en la verdadera estética de esa ideología y con la esperanza de que nuestra labor, dentro de sus muy modestos límites, coopere en la gran tarea de dignificar la vida humana por los senderos de la belleza y contribuya a levantar un dique contra el oleaje de deshumanización y vulgaridad.
 
-> **Figura 45:**
-> *Discurso de Luis Barragán con motivo de recibimiento del premio Pritzker de arquitectura*
->
-> Tomado de [Revista Arquine](https://www.arquine.com/el-discurso-de-luis-barragan/)
+[^1]: **Burrí, R. (2015, junio 6).** Tacubaya. Luis Barragán, Mexican architect, at his home. Oscar en Fotos. *Enlace:* https://oscarenfotos.com/2015/06/06/rene-burri-galeria/mexico-mexico-city-tacubaya-luis-barragan-mexican-architect-at-his-home/
 
-<!-- PorHacer: colocar el enlace abajo -->
+[^2]: **Barragán, L. (2018, noviembre 22)**. Discurso de Luis Barragán con motivo de recibimiento del premio Pritzker de arquitectura. Arquine. *Enlace:* https://www.arquine.com/el-discurso-de-luis-barragan/

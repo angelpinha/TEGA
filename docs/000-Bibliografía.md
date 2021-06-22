@@ -130,3 +130,31 @@ custom_edit_url: https://github.com/angelpinha/TEGA/blob/master/docs/000-bibliog
 **Barragán, L. (2021).** Capuchin Convent Chapel. Barragan Foundation. https://www.barragan-foundation.org/works/list/capuchin-convent-chapel
 
 **Barragán, L. (2008).** Capilla de las capuchinas. Moleskine Arquitectónico. http://moleskinearquitectonico.blogspot.com/2008/08/capilla-de-las-capuchinas-barragn.html
+
+**Barragán, L. (2021).** Casa Luis Barragán. Fundación de Arquitectura Tapatía Luis Barragán. http://www.casaluisbarragan.org/lacasa/porteria.html
+
+**Zwarts, K. (1990).** The Eye Embodied. http://www.kimzwarts.com/_foto/Luis_Barragan/04_Casa_Barragan.jpg
+
+**Barragán, L. (2021).** Casa Luis Barragán. Fundación de Arquitectura Tapatía Luis Barragán. http://www.casaluisbarragan.org/lacasa/taller.html
+
+**Barragán, L. (2021)**. Casa Luis Barragán. Fundación de Arquitectura Tapatía Luis Barragán. http://www.casaluisbarragan.org/lacasa/estancia.html
+
+**Arceo, D. (2012).** Galería de Lecciones de luz: Luis Barragán. ArchDaily México. https://www.archdaily.mx/mx/02-155277/lecciones-de-luz-luis-barragan/1294694669-luis40
+
+**Duque, K. (2011).** Galería de Clásicos de Arquitectura: Casa-Estudio Luis Barragán. Plataforma Arquitectura. https://www.plataformaarquitectura.cl/cl/02-101641/clasicos-de-arquitectura-casa-estudio-luis-barragan-luis-barragan/lrbln4
+
+**Jones, S. (2018).** Casa Gilardi. Pinterest. https://i.pinimg.com/originals/93/00/27/930027f58439daad4f146995b17194e8.png
+
+**Susskind, N. (2017).** Luis Barragán, Casa Gilardi. Tumblr. https://nicolasusskind.tumblr.com/post/158033080577/luis-barrag%C3%A1n-casa-gilardi-gilardi-house?is_related_post=1
+
+**Luque, E. (2018, diciembre 9).** 30 Years After Luis Barragán: 30 Architects Share Their Favorite Works. ArchDaily. https://www.archdaily.com/906700/30-years-after-luis-barragan-30-architects-share-their-favorite-works/5bf6c33b08a5e566ee0001d1-30-years-after-luis-barragan-30-architects-share-their-favorite-works-photo
+
+**Luque, E. (2018).** Galería de Clásicos de Arquitectura: Casa Gilardi. ArchDaily México. https://www.archdaily.mx/mx/02-123630/clasicos-de-arquitectura-casa-gilardi-luis-barragan/5bf4938a08a5e546960007ee-clasicos-de-arquitectura-casa-gilardi-luis-barragan-foto
+
+**Luque, E. (2018).** Galería de Clásicos de Arquitectura: Casa Gilardi / Luis Barragán. ArchDaily México. https://www.plataformaarquitectura.cl/cl/02-123630/clasicos-de-arquitectura-casa-gilardi-luis-barragan/5bf494e908a5e546960007f1-clasicos-de-arquitectura-casa-gilardi-luis-barragan-foto
+
+**Luque, E. (2018).** Galería de Clásicos de Arquitectura: Casa Gilardi. ArchDaily México. https://www.archdaily.mx/mx/02-123630/clasicos-de-arquitectura-casa-gilardi-luis-barragan/5bf490ef08a5e50911000321-clasicos-de-arquitectura-casa-gilardi-luis-barragan-foto
+
+**Zografini, E. (2019, noviembre 14).** Constructing (with) Light. Archistart. https://www.archistart.net/news/constructing-with-light/
+
+**Burrí, R. (2015, junio 6).** Tacubaya. Luis Barragán, Mexican architect, at his home. Oscar en Fotos. https://oscarenfotos.com/2015/06/06/rene-burri-galeria/mexico-mexico-city-tacubaya-luis-barragan-mexican-architect-at-his-home/

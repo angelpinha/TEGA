@@ -21,7 +21,7 @@ custom_edit_url: https://github.com/angelpinha/TEGA/blob/master/docs/13-casaGila
 > *Casa Gilardi*,
 > Ciudad de México - México,
 > (1975-1978).
-> Luis Barragán.
+> Luis Barragán.[^1]
 
 La casa Gilardi de Barragán se realizó entre los años 1975 a 1978 por encargo de dos jóvenes publicistas: Francisco *Pancho* Gilardi y Martín Luque, para la construcción de una vivienda destinada a contener un pequeño despacho de atención a sus clientes y contar con las áreas recreacionales necesarias, luego de una larga jornada de trabajo. Consiste en la última obra desarrollada en su totalidad por el arquitecto y una pieza de particular interés para la presente investigación.
 
@@ -41,7 +41,7 @@ El edificio se desarrolla principalmente con la agrupación de funciones esencia
 > *Casa Gilardi*,
 > Ciudad de México - México,
 > (1975-1978).
-> Luis Barragán.
+> Luis Barragán.[^2]
 
 La vivienda se puede interpretar con mayor claridad a través de tres aspectos fundamentales que la componen:
 
@@ -57,7 +57,7 @@ La vivienda se puede interpretar con mayor claridad a través de tres aspectos f
 > *Casa Gilardi*,
 > Ciudad de México - México,
 > (1975-1978).
-> Luis Barragán.
+> Luis Barragán.[^3]
 
 * El desarrollo del recorrido genera un conjunto de espacialidades al tránsito del ocupante, cuya narrativa espacial y lumínica dota de sentido a cada uno de los elementos de transición en la obra.
 
@@ -71,7 +71,7 @@ La vivienda se puede interpretar con mayor claridad a través de tres aspectos f
 > *Casa Gilardi*,
 > Ciudad de México - México,
 > (1975-1978).
-> Luis Barragán.
+> Luis Barragán.[^4]
 
 * La aplicación del color sobre las superficies generando tensión visual y complementando la composición arquitectónica a través de la luz reflejada y proyectada en los elementos establecidos dentro de la edificación.
 
@@ -85,7 +85,7 @@ La vivienda se puede interpretar con mayor claridad a través de tres aspectos f
 > *Casa Gilardi*,
 > Ciudad de México - México,
 > (1975-1978).
-> Luis Barragán.
+> Luis Barragán.[^5]
 
 De esta forma, el recorrido de la vivienda nos invita a desarrollar una procesión, al atravesar el corredor principal, adyacente al patio, que aprovecha la luz natural del mismo para teñirlo de amarillo y transportar al espectador a la percepción de nuevas espacialidades establecidas por la manipulación de las características de la luz.
 
@@ -99,7 +99,7 @@ De esta forma, el recorrido de la vivienda nos invita a desarrollar una procesi�
 > *Casa Gilardi*,
 > Ciudad de México - México,
 > (1975-1978).
-> Luis Barragán.
+> Luis Barragán.[^6]
 
 Finalmente, en el área destinada al comedor y la alberca, ocurre el punto de inflexión que nos revela una apreciación de mayor complejidad para la experiencia del usuario; se nos revela el dinamismo de la luz y el paso del tiempo en un recinto de formas y colores que nos sugiere la experimentación de lo sagrado en lo cotidiano. La composición espacial y el uso de diferentes recursos materiales e inmateriales (el tiempo), nos proporcionan un elemento arquitectónico de características memorables. De aquí la introspección y el misterio en la arquitectura de Barragán.
 
@@ -107,16 +107,28 @@ Finalmente, en el área destinada al comedor y la alberca, ocurre el punto de in
 
 <!-- ![casaGilardi](./src/casaGilardi/007-casaGilardi-Barragan-1975.jpg) -->
 
-<!-- PorHacer: colocar la nota de la imagen a pié de página -->
-
 > **Figura 43:**
 > La manipulación de los elementos arquitectónicos para aprovechar la incidencia de la luz en el área de la alberca, podría considerarse análogo al funcionamiento de un reloj solar.
 > 
 > *Casa Gilardi*,
 > Ciudad de México - México,
 > (1975-1978).
-> Luis Barragán.
+> Luis Barragán.[^7]
 
 :::info aspectos destacados
 Destaca de la presente obra, el desarrollo arquitectónico de la pieza, tomando en cuenta el recorrido como el elemento principal que le da sentido a la arquitectura, otorgándole dinamismo espacial y lumínico a cada una de las áreas.
 :::
+
+[^1]: **Jones, S. (2018).** Casa Gilardi. Pinterest. *Enlace:* https://i.pinimg.com/originals/93/00/27/930027f58439daad4f146995b17194e8.png
+
+[^2]: **Susskind, N. (2017).** Luis Barragán, Casa Gilardi. Tumblr. *Enlace:* https://nicolasusskind.tumblr.com/post/158033080577/luis-barrag%C3%A1n-casa-gilardi-gilardi-house?is_related_post=1
+
+[^3]: **Luque, E. (2018, diciembre 9).** 30 Years After Luis Barragán: 30 Architects Share Their Favorite Works. ArchDaily. *Enlace:* https://www.archdaily.com/906700/30-years-after-luis-barragan-30-architects-share-their-favorite-works/5bf6c33b08a5e566ee0001d1-30-years-after-luis-barragan-30-architects-share-their-favorite-works-photo
+
+[^4]: **Luque, E. (2018).** Galería de Clásicos de Arquitectura: Casa Gilardi. ArchDaily México. *Enlace:* https://www.archdaily.mx/mx/02-123630/clasicos-de-arquitectura-casa-gilardi-luis-barragan/5bf4938a08a5e546960007ee-clasicos-de-arquitectura-casa-gilardi-luis-barragan-foto
+
+[^5]: **Luque, E. (2018).** Galería de Clásicos de Arquitectura: Casa Gilardi / Luis Barragán. ArchDaily México. *Enlace:* https://www.plataformaarquitectura.cl/cl/02-123630/clasicos-de-arquitectura-casa-gilardi-luis-barragan/5bf494e908a5e546960007f1-clasicos-de-arquitectura-casa-gilardi-luis-barragan-foto
+
+[^6]: **Luque, E. (2018).** Galería de Clásicos de Arquitectura: Casa Gilardi. ArchDaily México. *Enlace:* https://www.archdaily.mx/mx/02-123630/clasicos-de-arquitectura-casa-gilardi-luis-barragan/5bf490ef08a5e50911000321-clasicos-de-arquitectura-casa-gilardi-luis-barragan-foto
+
+[^7]: **Zografini, E. (2019, noviembre 14).** Constructing (with) Light. Archistart. *Enlace:* https://www.archistart.net/news/constructing-with-light/

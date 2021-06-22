@@ -21,7 +21,7 @@ custom_edit_url: https://github.com/angelpinha/TEGA/blob/master/docs/12-casaEstu
 > *Casa estudio*,
 > Ciudad de México - México,
 > (1948).
-> Luis Barragán.
+> Luis Barragán.[^1]
 
 A partir del año 1947, en paralelo con la primera etapa del desarrollo urbano en los jardines del Pedregal, comienza la construcción de su casa estudio, contando con una estética exterior austera, para adaptarse a los criterios urbanos pertenecientes al barrio de Tacubaya en Ciudad de México, donde se emplaza. La casa se convierte en el campo de experimentación de su pensamiento, tomando en cuenta factores que definen su estilo presentes en su obra tardía: el uso del color, el manejo de la luz, la adaptación de los espacios de acuerdo al recorrido y los principios de privacidad aplicados a la obra.
 
@@ -45,7 +45,7 @@ La vivienda se desarrolla y se remodela en repetidas ocasiones para adaptarse a 
 > *Casa estudio*,
 > Ciudad de México - México,
 > (1948).
-> Luis Barragán.
+> Luis Barragán.[^2]
 
 La aplicación de este concepto, no solamente se observa en las secuencias espaciales de la vivienda y en el sentido del recorrido que aplica al contraer y extender el espacio de manera rítmica, sino que también utiliza los planos superiores e inferiores del volumen como un tema de especial cuidado en la composición, lo que podemos ver en la aplicación del color en los elementos de la cubierta o eventualmente en la apertura de vanos sobre estrechos pasillos, para hacer énfasis en las pinturas o esculturas que apropia y ubica de forma estratégica como si de una exposición de arte se tratase dentro de la vivienda.
 
@@ -59,7 +59,7 @@ La aplicación de este concepto, no solamente se observa en las secuencias espac
 > *Casa Estudio*,
 > Ciudad de México - México,
 > (1948).
-> Luis Barragán.
+> Luis Barragán.[^3]
 
 El oficio de Barragán al generar arquitectura residencial, consiste en el aprendizaje y el entendimiento del día a día de sus residentes, cuyas necesidades, se materializan en un edificio que alberga las condiciones requeridas para su uso y que a su vez, busca evocar el estilo de vida tradicional mexicano en un asentamiento bajo premisas contemporáneas. Por esto, vemos un desarrollo espacial acorde al arte contemporáneo en su arquitectura y a su vez, surge una sensibilidad por la integración plástica entre la artesanía, la pintura, los tejidos y una variada paleta de colores que compaginan con el dictamen de la tradición mexicana. Por lo tanto, la casa estudio de Barragán supone la fusión de composición espacial, generación de atmósferas a través de los elementos decorativos y los colores de las superficies, en especial, la manipulación de las características de la luz.
 
@@ -74,7 +74,7 @@ El oficio de Barragán al generar arquitectura residencial, consiste en el apren
 > *Casa Estudio*,
 > Ciudad de México - México,
 > (1948).
-> Luis Barragán.
+> Luis Barragán.[^4]
 
 Por otra parte, el elemento ventana ubicado en la sala-comedor de la vivienda, hace un vínculo directo entre el interior y exterior, sensibilizando al hombre con un tema recurrente en la adaptación de los espacios a la naturaleza.
 
@@ -88,7 +88,7 @@ Por otra parte, el elemento ventana ubicado en la sala-comedor de la vivienda, h
 > *Casa Estudio*,
 > Ciudad de México - México,
 > (1948).
-> Luis Barragán.
+> Luis Barragán.[^5]
 
 Así, la consecución de espacios que supone el recorrido, la extensión o contracción de la escala, la apertura hacia la naturaleza o la introspección hacia los dominios privados de la vivienda, junto con la experimentación de elementos visuales como el color y la luz, resultan en un enriquecimiento sensorial por parte de Barragán, abarcando los factores que consolidan sus principios de composición arquitectónica.
 
@@ -100,7 +100,7 @@ Así, la consecución de espacios que supone el recorrido, la extensión o contr
 > *Casa Estudio*,
 > Ciudad de México - México,
 > (1948).
-> Luis Barragán.
+> Luis Barragán.[^6]
 
 Eventualmente, la vivienda de Barragán se caracteriza por desarrollar un patio superior con doble funcionalidad: la de propiciar la privacidad en algún evento social y la de generar un escenario ideal para dirigir la mirada al cielo.
 
@@ -112,8 +112,22 @@ Eventualmente, la vivienda de Barragán se caracteriza por desarrollar un patio 
 > *Patio superior de la Casa Estudio*,
 > Ciudad de México - México,
 > (1948).
-> Luis Barragán.
+> Luis Barragán.[^7]
 
 :::info aspectos destacados
 Destaca en la presente obra, la consecusión resultante de establecer transiciones espaciales entre las distintas áreas de la vivienda; generando ritmos de apertura y cerramiento en la escala de los espacios en relación a su uso.
 :::
+
+[^1]: **Barragán, L. (2021).** Casa Luis Barragán. Fundación de Arquitectura Tapatía Luis Barragán. *Enlace:* http://www.casaluisbarragan.org/lacasa/porteria.html
+
+[^2]: **Zwarts, K. (1990).** The Eye Embodied. *Enlace:* http://www.kimzwarts.com/_foto/Luis_Barragan/04_Casa_Barragan.jpg
+
+[^3]: **Barragán, L. (2021).** Casa Luis Barragán. Fundación de Arquitectura Tapatía Luis Barragán. *Enlace:* http://www.casaluisbarragan.org/lacasa/taller.html
+
+[^4]: **Flores, R. (2019).** Gallery of The Ultimate List of Sites Declared World Heritage in Mexico—10. ArchDaily. *Enlace:* https://www.archdaily.com/918548/the-ultimate-list-of-sites-declared-world-heritage-in-mexico/5cf6f22a284dd197960001c9-the-ultimate-list-of-sites-declared-world-heritage-in-mexico-photo
+
+[^5]: **Barragán, L. (2021).** Casa Luis Barragán. Fundación de Arquitectura Tapatía Luis Barragán. *Enlace:* http://www.casaluisbarragan.org/lacasa/estancia.html
+
+[^6]: **Arceo, D. (2012).** Galería de Lecciones de luz: Luis Barragán. ArchDaily México. *Enlace:* https://www.archdaily.mx/mx/02-155277/lecciones-de-luz-luis-barragan/1294694669-luis40
+
+[^7]: **Duque, K. (2011).** Galería de Clásicos de Arquitectura: Casa-Estudio Luis Barragán. Plataforma Arquitectura. *Enlace:* https://www.plataformaarquitectura.cl/cl/02-101641/clasicos-de-arquitectura-casa-estudio-luis-barragan-luis-barragan/lrbln4
