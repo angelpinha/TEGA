@@ -11,13 +11,13 @@ custom_edit_url: https://github.com/angelpinha/TEGA/blob/master/docs/18-louvreAb
 
 <!-- ![louvreAbuDhabi](./src/louvreAbuDhabi/001-louvreAbuDhabi.jpg) -->
 
-> **Figura 57:**
+> **Figura 56:**
 > Vista exterior del conjunto.
 >
 > *Museo Louvre*,
 > Abu Dhabi - Emiratos Árabes,
 > (2013 - 2017).
-> Jean Nouvel.
+> Jean Nouvel.[^1]
 
 ## El museo y el mar
 
@@ -44,13 +44,13 @@ Jean Nouvel diseña el Louvre de Abu Dhabi inspirado en la cultura tradicional �
 
 <!-- ![louvreAbuDhabi](./src/louvreAbuDhabi/002-louvreAbuDhabi.jpg) -->
 
-> **Figura 58:**
+> **Figura 57:**
 > Representación del proyeto en conjunto.
 >
 > *Museo Louvre*,
 > Abu Dhabi - Emiratos Árabes,
 > (2013 - 2017).
-> Jean Nouvel.
+> Jean Nouvel.[^2]
 
 Una gran cúpula de 180 metros de diámetro, visible desde el mar, los alrededores y la ciudad de Abu Dhabi, cubre la mayor parte de la *ciudad museo*. El domo fue construido por la empresa austríaca Waagner Biro, especializada en estructuras de acero. El domo consiste de ocho capas diferentes: Cuatro capas externas revestidas en acero inoxidable y cuatro capas internas revestidas de aluminio, separadas por un marco de madera de cinco metros de altura. El marco está constituido por 10.000 elementos estructurales preensamblados en 85 supermódulos, cada uno con una masa superior a las 50 toneladas.
 
@@ -58,13 +58,13 @@ Una gran cúpula de 180 metros de diámetro, visible desde el mar, los alrededor
 
 <!-- ![louvreAbuDhabi](./src/louvreAbuDhabi/003-louvreAbuDhabi.jpg) -->
 
-> **Figura 59:**
+> **Figura 58:**
 > Diseño iterativo por capas de la cúpula.
 >
 > *Museo Louvre*,
 > Abu Dhabi - Emiratos Árabes,
 > (2013 - 2017).
-> Jean Nouvel.
+> Jean Nouvel.[^3]
 
 El patrón complejo de la cúpula, resulta de una estudiada propuesta geométrica  en colaboración entre el equipo de diseño y los ingenieros estructurales; repitiéndose en varios tamaños y ángulos en las ocho capas superpuestas. Cada rayo de luz penetra las capas antes de aparecer y desaparecer sobre las superficies internas; como resultado, se aprecia un efecto cinemático conforme transcurre el recorrido solar. Durante la noche, son visibles 7.850 estrellas dentro y fuera del complejo. Estos fenómenos, los cataloga Nouvel bajo la definición de *lluvia de luz*, posibilitados gracias a la elaboración de diversos modelos durante las fases de diseño del proyecto, estableciendo las características distintivas del concepto del conjunto.
 
@@ -72,13 +72,13 @@ El patrón complejo de la cúpula, resulta de una estudiada propuesta geométric
 
 <!-- ![louvreAbuDhabi](./src/louvreAbuDhabi/004-louvreAbuDhabi.jpg) -->
 
-> **Figura 60:**
+> **Figura 59:**
 > Efecto "lluvia de luz" en imágen conceptual.
 >
 > *Museo Louvre*,
 > Abu Dhabi - Emiratos Árabes,
 > (2013 - 2017).
-> Jean Nouvel.
+> Jean Nouvel.[^4]
 
 Sólo cuatro pilares soportan la cúpula, cada uno separado por una distancia de 110 metros. Su ubicación se mantiene oculta entre los edificios del museo, lo que favorece la impresión de que el domo flota entre los edificios. La altura interior de la cúpula es de 29 metros desde planta baja hasta sus recubrimientos inferiores. El punto más alto de la cúpula, se establece a unos 40 metros sobre el nivel del mar y 36 metros sobre la planta baja del edificio.
 
@@ -86,13 +86,13 @@ Sólo cuatro pilares soportan la cúpula, cada uno separado por una distancia de
 
 <!-- ![louvreAbuDhabi](./src/louvreAbuDhabi/005-louvreAbuDhabi.jpg) -->
 
-> **Figura 61:**
+> **Figura 60:**
 > La monumentalidad de la cúpula, delimita el espacio y la percepción sensorial del usuario.
 >
 > *Museo Louvre*,
 > Abu Dhabi - Emiratos Árabes,
 > (2013 - 2017).
-> Jean Nouvel.
+> Jean Nouvel.[^5]
 
 El diseño del museo representa una síntesis entre el diseño tradicional y las técnicas de construcción modernas. El ambiente apacible del lugar, anima a los visitantes a disfrutar de la siempre cambiante relación entre el sol y la cúpula, el edificio y la tierra.
 
@@ -100,13 +100,13 @@ El diseño del museo representa una síntesis entre el diseño tradicional y las
 
 <!-- ![louvreAbuDhabi](./src/louvreAbuDhabi/006-louvreAbuDhabi.jpg) -->
 
-> **Figura 62:**
+> **Figura 61:**
 > El efecto "lluvia de luz", es visible durante el día.
 >
 > *Museo Louvre*,
 > Abu Dhabi - Emiratos Árabes,
 > (2013 - 2017).
-> Jean Nouvel.
+> Jean Nouvel.[^6]
 
 :::note info
 💡 Resulta de particular interés para la investigación el mecanismo de la doble piel en la cubierta, actuando como filtro para el paso de la luz sobre el interior del edificio. Este *artilugio arquitectónico* permite evaluar con mayor visibilidad, las dinámicas de luz y sombra producidas entre la luz solar y la arquitectura.
@@ -117,3 +117,16 @@ El diseño del museo representa una síntesis entre el diseño tradicional y las
 http://www.jeannouvel.com/en/projects/louvre-abou-dhabi-3/
 
 https://www.archdaily.com/883157/louvre-abu-dhabi-atelier-jean-nouvel -->
+
+[^1]:
+
+[^2]:
+
+[^3]:
+
+[^4]:
+
+[^5]:
+
+[^6]:
+

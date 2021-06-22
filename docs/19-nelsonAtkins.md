@@ -15,13 +15,13 @@ custom_edit_url: https://github.com/angelpinha/TEGA/blob/master/docs/19-nelsonAt
 
 <!-- ![nelsonAtkins](./src/nelsonAtkins/001-nelsonAtkins.jpg) -->
 
-> **Figura 63:**
+> **Figura 62:**
 > Ampliación del Museo de Arte Nelson Atkins, *contraste complementario* entre edificaciones.
 >
 > *Museo de arte Nelson Atkins*,
 > Kansas - Estados Unidos,
 > (2007).
-> Steven Holl.
+> Steven Holl.[^1]
 
 La nueva ampliación llamada "The Bloch Building", se acopla con el jardín de esculturas existente, transformando el conjunto del museo en un recinto para la experiencia del visitante. La nueva adición se extiende a lo largo del *flanco este* del campus, y se distingue por cinco *linternas de vidrio*, que atraviesan el edificio existente a través del Parque de Esculturas, formando nuevos espacios y ángulos de visión. Conforme los visitantes desarrollan su recorrido, en el interior experimentan un flujo entre luz, arte, arquitectura y paisaje, con vistas desde un nivel hacia otro, desde adentro hacia afuera.
 
@@ -29,13 +29,13 @@ La nueva ampliación llamada "The Bloch Building", se acopla con el jardín de e
 
 <!-- ![nelsonAtkins](./src/nelsonAtkins/002-nelsonAtkins.jpg) -->
 
-> **Figura 64:**
+> **Figura 63:**
 > Configuración espacial y funcional del proyecto arqutiectónico.
 >
 > *Museo de arte Nelson Atkins*,
 > Kansas - Estados Unidos,
 > (2007).
-> Steven Holl.
+> Steven Holl.[^2]
 
 El movimiento entrelazado entre las *linternas captadoras de luz* de la nueva incorporación, tejen el nuevo edificio con el paisaje en un dinamismo fluido, basado en una relación sensible con su contexto. En lugar de incorporar un solo bloque, los cinco nuevos elementos existen en *contraste complementario* con el clásico "Templo del Arte", original de 1933.
 
@@ -43,13 +43,13 @@ El movimiento entrelazado entre las *linternas captadoras de luz* de la nueva in
 
 <!-- ![nelsonAtkins](./src/nelsonAtkins/003-nelsonAtkins.jpg) -->
 
-> **Figura 65:**
+> **Figura 64:**
 > Relación de los recorridos exteriores con las obras existentes.
 >
 > *Museo de arte Nelson Atkins*,
 > Kansas - Estados Unidos,
 > (2007).
-> Steven Holl.
+> Steven Holl.[^3]
 
 La primera de las cinco "linternas" conforma un lobby luminoso y transparente, con café, biblioteca de arte y librería; invitando al público dentro del Museo y favoreciendo el movimiento a través de rampas hacia las galerías, conforme se desarrolla el recorrido en descenso bajo el jardín. Además, desde el lobby, un nuevo eje transversal se conecta hacia los espacios del edificio original.
 
@@ -57,13 +57,13 @@ La primera de las cinco "linternas" conforma un lobby luminoso y transparente, c
 
 <!-- ![nelsonAtkins](./src/nelsonAtkins/004-nelsonAtkins.jpg) -->
 
-> **Figura 66:**
+> **Figura 65:**
 > Recorrido subterráneo de las galerías.
 >
 > *Museo de arte Nelson Atkins*,
 > Kansas - Estados Unidos,
 > (2007).
-> Steven Holl.
+> Steven Holl.[^4]
 
 Durante la noche, el volumen del lobby se enciende con luz artificial e irradia sobre espacios interiores y exteriores. Las pantallas multicapa acristaladas que conforman los cerramientos, destacan al permitir recoger, difundir y refractar la luz. El aspecto de la luz a través de las pantallas materializa el medio refractivo, otorgándole la apariencia de bloques de hielo.
 
@@ -71,13 +71,13 @@ Durante la noche, el volumen del lobby se enciende con luz artificial e irradia 
 
 <!-- ![nelsonAtkins](./src/nelsonAtkins/005-nelsonAtkins.jpg) -->
 
-> **Figura 67:**
+> **Figura 66:**
 > Iluminación artificial del edificio en contexto nocturno.
 >
 > *Museo de arte Nelson Atkins*,
 > Kansas - Estados Unidos,
 > (2007).
-> Steven Holl.
+> Steven Holl.[^5]
 
 Durante el día, las linternas inyectan las cualidades variables de la luz dentro de las galerías, mientras que durante la noche, el jardín de esculturas brilla con la luz interna refractada hacia el exterior.
 
@@ -85,15 +85,15 @@ Durante el día, las linternas inyectan las cualidades variables de la luz dentr
 
 <!-- ![nelsonAtkins](./src/nelsonAtkins/006-nelsonAtkins.jpg) -->
 
-> **Figura 68:**
+> **Figura 67:**
 > La refracción de la luz natural durante el día, complementando los usos de la edificación.
 >
 > *Museo de arte Nelson Atkins*,
 > Kansas - Estados Unidos,
 > (2007).
-> Steven Holl.
+> Steven Holl.[^6]
 
-El *recorrido serpenteante* hilado entre las linternas en el Parque de esculturas, se complementa con el flujo abierto continuo del nivel inferior de galerías. Organizado en secuencia, el recorrido descendente permite la progresión de las colecciones, matizadas por las vistas del paisaje.
+El *recorrido serpenteante* hilado entre las linternas en el Parque de esculturas, se complementa con el flujo abierto continuo del nivel inferior de galerías. Organizado en secuencia, el recorrido descendente permite la progresión de las colecciones, matizadas por las vistas del paisaje.[^1]
 
 El diseño para la nueva adición, utiliza conceptos de edificaciones sostenibles. El jardín de esculturas continúa sobre las cubiertas de la galería, creando patios de esculturas entre las linternas, al mismo tiempo que emplean el uso de techos verdes para lograr un alto aislamiento térmico y proporcionar el aprovechamiento de las aguas pluviales.
 
@@ -101,13 +101,13 @@ El diseño para la nueva adición, utiliza conceptos de edificaciones sostenible
 
 <!-- ![nelsonAtkins](./src/nelsonAtkins/007-nelsonAtkins.jpg) -->
 
-> **Figura 69:**
+> **Figura 68:**
 > Iluminación natural interior de la edificación.
 >
 > *Museo de arte Nelson Atkins*,
 > Kansas - Estados Unidos,
 > (2007).
-> Steven Holl.
+> Steven Holl.[^7]
 
 En el corazón de la propuesta arquitectónica, se destacan las unidades estructurales en forma de "T" llamadas "Breathing T's", que cumplen múltiple función: 
 
@@ -123,13 +123,13 @@ Las cavidades de doble vidrio de las claraboyas, recogen los vientos cálidos du
 
 <!-- ![nelsonAtkins](./src/nelsonAtkins/008-nelsonAtkins.jpg) -->
 
-> **Figura 70:**
+> **Figura 69:**
 > Sección de los elementos estructurales "Breathing T's".
 >
 > *Museo de arte Nelson Atkins*,
 > Kansas - Estados Unidos,
 > (2007).
-> Steven Holl.
+> Steven Holl.[^8]
 
 Una planta de servicio contínua en el sótano, bajo el nivel de las galerías, posibilita el recorrido de las obras de arte, almacenamiento y espacios de maniobra, así como el acceso a las "Breathing T's".
 
@@ -137,13 +137,13 @@ Una planta de servicio contínua en el sótano, bajo el nivel de las galerías, 
 
 <!-- ![nelsonAtkins](./src/nelsonAtkins/009-nelsonAtkins.jpg) -->
 
-> **Figura 71:**
+> **Figura 70:**
 > Efectos lumínicos a través de elementos estructurales.
 >
 > *Museo de arte Nelson Atkins*,
 > Kansas - Estados Unidos,
 > (2007).
-> Steven Holl.
+> Steven Holl.[^9]
 
 :::note info
 💡 Para la presente investigación, se destaca el uso de distintas técnicas que permiten la regulación y el paso controlado de la luz natural y artificial dentro y fuera del edificio. Destacan los elementos estructurales escultóricos, que permiten la regulación de las condiciones lumínicas dentro de las salas de exposición. El recorrido y las obras de arte se convierten en una experiencia integral.
@@ -161,3 +161,12 @@ https://www.architonic.com/es/project/steven-holl-the-nelson-atkins-museum-of-ar
 
 https://www.plataformaarquitectura.cl/cl/791485/iwan-baan-photographs-steven-holls-nelson-atkins-museum-for-its-ninth-birthday -->
 
+[^1]:
+[^2]:
+[^3]:
+[^4]:
+[^5]:
+[^6]:
+[^7]:
+[^8]:
+[^9]:

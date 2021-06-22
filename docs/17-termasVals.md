@@ -17,13 +17,13 @@ custom_edit_url: https://github.com/angelpinha/TEGA/blob/master/docs/17-termasVa
 
 <!-- ![termasVals](./src/termasVals/001-termasVals.jpg) -->
 
-> **Figura 50:**
+> **Figura 49:**
 > Fachada sureste de la edificación.
 >
 > *Termas de Vals*,
 > Vals - Suiza,
 > (1993 - 1996).
-> Peter Zumthor.
+> Peter Zumthor.[^1]
 
 El hotel se complementa con el actual complejo de baños termales, alrededor de 1960. El mismo cuenta con una presencia arquitectónica que refleja un destello de los estilos modernos de la década de los cincuenta. El segundo spa se volvió obsoleto a finales de 1996, siendo reemplazado por la implementación de las termas descritas a continuación.
 
@@ -33,13 +33,13 @@ Los nuevos baños termales, comprenden una estructura independiente sobre el inc
 
 <!-- ![termasVals](./src/termasVals/002-termasVals.jpg) -->
 
-> **Figura 51:**
+> **Figura 50:**
 > Integración del edificio con su contexto inmediato.
 >
 > *Termas de Vals*,
 > Vals - Suiza,
 > (1993 - 1996).
-> Peter Zumthor.
+> Peter Zumthor.[^2]
 
 Se trata de un edificio solitario, que resiste la integración formal con la estructura existente, para evocar con claridad uno de sus motivos principales: el establecimiento de una relación espacial directa con el paisaje montañoso, su poder natural, su sustancia geológica y su característica topografía.
 
@@ -47,13 +47,13 @@ Se trata de un edificio solitario, que resiste la integración formal con la est
 
 <!-- ![termasVals](./src/termasVals/003-termasVals.jpg) -->
 
-> **Figura 52:**
+> **Figura 51:**
 > Implementación del edificio en la topografía.
 >
 > *Termas de Vals*,
 > Vals - Suiza,
 > (1993 - 1996).
-> Peter Zumthor.
+> Peter Zumthor.[^3]
 
 En paralelo, Zumthor tomó en consideración que el nuevo edificio debía transmitir la sensación de estar emplazado mucho antes que el edificio preexistente, es decir, de haber pertenecido siempre en el paisaje.
 
@@ -65,13 +65,13 @@ Desde un principio, Zumthor experimenta un sentimiento por la naturaleza místic
 
 <!-- ![termasVals](./src/termasVals/004-termasVals.jpg) -->
 
-> **Figura 53:**
+> **Figura 52:**
 > Composición lumínica en espacios interiores.
 >
 > *Termas de Vals*,
 > Vals - Suiza,
 > (1993 - 1996).
-> Peter Zumthor.
+> Peter Zumthor.[^4]
 
 El uso consciente de estos elementos estuvo presente desde el principio del diseño, dando como resultado una arquitectura que sirve de espacio para las experiencias primarias y silenciosas de bañarse, limpiarse y relajarse en el agua regulada a diferentes temperaturas, en diferentes tipos de espacios para propiciar la conexión del usuario con su elemento introspectivo.
 
@@ -81,13 +81,13 @@ Un espacio continuo compuesto de un sistema de cuevas geométricas, se desarroll
 
 <!-- ![termasVals](./src/termasVals/005-termasVals.jpg) -->
 
-> **Figura 54:**
+> **Figura 53:**
 > Conceptualización en planta del sistema de cuevas por Peter Zumthor.
 >
 > *Termas de Vals*,
 > Vals - Suiza,
 > (1993 - 1996).
-> Peter Zumthor.
+> Peter Zumthor.[^5]
 
 Los submódulos estructurales internos cubiertos por losas individuales, componen las termas en su conjunto. Estos no se terminan de tocar entre sí, conformando una red de fisuras que permiten el paso de la luz natural en el interior del edificio desde el plano superior, mediante la aplicación de unas juntas acristaladas translúcidas con 14 cm de separación entre sí. Visto desde arriba, la forma de organización de dichos submódulos, componen un patrón geométrico que ensamblan una composición rectangular.
 
@@ -95,13 +95,13 @@ Los submódulos estructurales internos cubiertos por losas individuales, compone
 
 <!-- ![termasVals](./src/termasVals/006-termasVals.jpg) -->
 
-> **Figura 55:**
+> **Figura 54:**
 > Termas interiores.
 >
 > *Termas de Vals*,
 > Vals - Suiza,
 > (1993 - 1996).
-> Peter Zumthor.
+> Peter Zumthor.[^6]
 
 La perspectiva interna, generada por la composición de los elementos arquitectónicos se mantiene controlada asegurando o negando las visuales al usuario, de modo que las mismas y su percepción espacial, se regulan acorde a la función y significado dentro del conjunto.
 
@@ -109,18 +109,30 @@ La perspectiva interna, generada por la composición de los elementos arquitect�
 
 <!-- ![termasVals](./src/termasVals/007-termasVals.jpg) -->
 
-> **Figura 56:**
+> **Figura 55:**
 > Relación visual entre el edificio y el entorno natural.
 >
 > *Termas de Vals*,
 > Vals - Suiza,
 > (1993 - 1996).
-> Peter Zumthor.
+> Peter Zumthor.[^7]
 
 :::note info
 💡 Una de las premisas del proyecto de Zumthor, es la integración en el emplazamiento de la edificación y de cómo esta se relaciona directamente con su entorno. Al aprovechar el recurso del agua, topografía, materiales y las vistas que ofrece hacia el entorno. La suma de estas consideraciones individuales, traen como resultado un edificio en consonancia espacial y visual al lugar donde pertenece.
 :::
 
-<!-- ---
+<!-- ---- **Peter Zumthor Works. (1998).** Building and projects 1979 - 1997. Text by Peter Zumthor. Princeton Arch Staff, Published by Lars Muller. -->
 
-- **Peter Zumthor Works. (1998).** Building and projects 1979 - 1997. Text by Peter Zumthor. Princeton Arch Staff, Published by Lars Muller. -->
+[^1]:
+
+[^2]:
+
+[^3]:
+
+[^4]:
+
+[^5]:
+
+[^6]:
+
+[^7]:
