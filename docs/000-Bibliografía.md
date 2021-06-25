@@ -15,7 +15,7 @@ custom_edit_url: https://github.com/angelpinha/TEGA/blob/master/docs/000-bibliog
 
 **López, D. J. E., Torres, M. M., Salazar, J. E. L., Salazar, Y. L., & Fasanella, H. (1999).** La Escuela de Caracas y el paisajismo venezolano. Gac Méd Caracas, 107, 12.
 
-**Sánchez A., Samir, P. E. A.-E. (2013).** Proyecto Experiencia Arte: Manuel Cabré y los paisajes del Táchira. Proyecto Experiencia Arte. https://bitacorasamisan.blogspot.com/2013/05/manuel-cabre-y-los-paisajes-del.html
+**Sánchez A., Samir, P. E. A.-E. (2013).** Manuel Cabré y los paisajes del Táchira. Proyecto Experiencia Arte. https://bitacorasamisan.blogspot.com/2013/05/manuel-cabre-y-los-paisajes-del.html
 
 **Campo Baeza, A. (1996).** La idea construida: La arquitectura a la luz de las palabras. Colegio Oficial de Arquitectos de Madrid.
 

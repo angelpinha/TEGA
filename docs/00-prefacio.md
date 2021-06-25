@@ -28,7 +28,7 @@ La captación de la luz solar en la vida del hombre, ha constituido una fuente d
 
 La presente investigación, toma como marco de referencia conceptual los criterios arquitectónicos empleados en la obra de Luis Barragán, en favor del aprovechamiento de la luz natural, de tal manera que las características espaciales delimitadas por la creación arquitectónica, se componga de un entorno construido de mayor calidad espacial y persiga fines que sobrepasen lo funcional para contribuir al dinamismo sensorial del sujeto que vive la arquitectura.
 
-[^1]: **Proyecto Experiencia Arte. (2013, mayo 30).** Proyecto Experiencia Arte: Manuel Cabré y los paisajes del Táchira. *Enlace:* https://bitacorasamisan.blogspot.com/2013/05/manuel-cabre-y-los-paisajes-del.html
+[^1]: **Sánchez A., Samir, P. E. A.-E. (2013).** Manuel Cabré y los paisajes del Táchira. Proyecto Experiencia Arte. *Enlace:* https://bitacorasamisan.blogspot.com/2013/05/manuel-cabre-y-los-paisajes-del.html
 
 [^2]: Según el **(Instituto para la Diversificación y Ahorro de la Energía et al., 2005)**, *«Es un hecho que, a la hora de iluminar una tarea visual, el ser humano prefiere la luz natural a la luz artificial o luz eléctrica. La luz procedente del sol tiene un perfecto rendimiento de los colores y aporta elementos muy proactivos en el comportamiento de las personas.»*
 
