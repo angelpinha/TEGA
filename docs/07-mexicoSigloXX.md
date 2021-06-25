@@ -143,7 +143,7 @@ Esta es la base de partida usada para configurar junto a sus estudiantes la *Esc
 💡 Estas propuestas presentarían las soluciones prototípicas que anteceden a la Escuela Mexicana de Arquitectura, una de las instituciones que representaron el punto de inflexión para el desarrollo de la arquitectura mexicana.
 :::
 
-[^1]: Entrenamiento de reclutas constitucionalistas en 1915. *Enlace:* https://de10.com.mx/top-10/todo-lo-que-debes-saber-sobre-la-historia-de-la-revolucion-mexicana
+[^1]: **El Universal. (2019, noviembre 20).** Breve resumen sobre la historia de la revolución Mexicana. De10. https://de10.com.mx/top-10/todo-lo-que-debes-saber-sobre-la-historia-de-la-revolucion-mexicana
 
 [^2]: **BBC Mundo. (2018, noviembre 18).** Qué fue la Revolución Mexicana y quiénes fueron sus principales líderes. BBC News Mundo. *Enlace:* https://www.bbc.com/mundo/noticias-america-latina-46245076
 
