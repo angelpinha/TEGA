@@ -158,3 +158,69 @@ custom_edit_url: https://github.com/angelpinha/TEGA/blob/master/docs/000-bibliog
 **Zografini, E. (2019, noviembre 14).** Constructing (with) Light. Archistart. https://www.archistart.net/news/constructing-with-light/
 
 **Burrí, R. (2015, junio 6).** Tacubaya. Luis Barragán, Mexican architect, at his home. Oscar en Fotos. https://oscarenfotos.com/2015/06/06/rene-burri-galeria/mexico-mexico-city-tacubaya-luis-barragan-mexican-architect-at-his-home/
+
+**Perego, S. (2016, octubre 10).** Row House—Azuma House. Flickr. https://www.flickr.com/photos/ste_peg/33037526535/
+
+**Leggsdiamond. (2013).** Tadao Ando, Azuma House. Tumblr. https://leggsdiamond.tumblr.com/post/52401693751
+
+**Angieri, G. (2012).** Casa Azuma de Tadao Ando. Diseño y Arquitectura. https://www.disenoyarquitectura.net/2012/11/casa-azuma-de-tadao-ando.html
+
+**Dal Co, F., & Andō, T. (1995).** Tadao Ando: Complete works. Phaidon Press.
+
+**Copans, R. (2000).** Les Thermes De Pierre.
+
+**Ceriani, A. (2009).** Gallery of The Therme Vals / Peter Zumthor. ArchDaily. https://www.archdaily.com/13358/the-therme-vals/5fc1418963c017d62c00122a-the-therme-vals-photo
+
+**Camus, F. (2015).** Galería de Termas de Vals. ArchDaily México. https://www.archdaily.mx/mx/765256/termas-de-vals-peter-zumthor/552b1470e58ecea1190004f2-fc_5-jpg
+
+**Montieth, B. (2015, octubre 29).** Say No to Style: Community Oriented Architecture. Angles. https://carolinaangles.com/2015/10/29/say-no-to-style-community-oriented-architecture/
+
+**Zumthor, P., Binet, H., & Zumthor, P. (1999).** Peter Zumthor, works: Buildings and projects, 1979 - 1997. Birkhäuser.
+
+**Guerra, F. (2016).** Peter Zumthor’s Therme Vals. ArchDaily. https://www.archdaily.com/798360/peter-zumthors-therme-vals-through-the-lens-of-fernando-guerra/580fb36ce58ecefd6700008e-peter-zumthors-therme-vals-through-the-lens-of-fernando-guerra-photo?next_project=no
+
+**Zumthor, P. (2021).** Termas de Vals. WikiArquitectura. https://es.wikiarquitectura.com/edificio/termas-de-vals/
+
+**Guerra, F. (2016).** Peter Zumthor’s Therme Vals. ArchDaily. https://www.archdaily.com/798360/peter-zumthors-therme-vals-through-the-lens-of-fernando-guerra/580faf4ce58ece64b8000032-peter-zumthors-therme-vals-through-the-lens-of-fernando-guerra-photo
+
+**Zumthor, P. (2021).** The Therme Vals. Modlar. https://www.modlar.com/photos/2671/the-therme-vals-pool/
+
+**Ateliers Jean Nouvel. (2017, noviembre 8).** Louvre Abu Dhabi. ArchDaily. https://www.archdaily.com/883157/louvre-abu-dhabi-atelier-jean-nouvel/5a01bfddb22e38b1dc0004e3-louvre-abu-dhabi-atelier-jean-nouvel-photo?next_project=no
+
+**Nouvel, J. (2017).** Louvre Abu Dhabi. Ateliers Jean Nouvel. http://www.jeannouvel.com/en/projects/louvre-abou-dhabi-3/
+
+**Ateliers Jean Nouvel. (2017, noviembre 8).** Louvre Abu Dhabi. ArchDaily. https://www.archdaily.com/883157/louvre-abu-dhabi-atelier-jean-nouvel
+
+**Ateliers Jean Nouvel. (2017, noviembre 8).** Louvre Abu Dhabi. ArchDaily. https://www.archdaily.com/883157/louvre-abu-dhabi-atelier-jean-nouvel/5a01c0e3b22e38b1dc0004e8-louvre-abu-dhabi-atelier-jean-nouvel-c-ateliers-jean-nouvel-roof-plan?next_project=no
+
+**Ateliers Jean Nouvel. (2017, noviembre 8).** Louvre Abu Dhabi. ArchDaily. https://www.archdaily.com/883157/louvre-abu-dhabi-atelier-jean-nouvel/5a01c741b22e38b1dc000512-louvre-abu-dhabi-atelier-jean-nouvel-c-ateliers-jean-nouvel-dome-pattern?next_project=no
+
+**Ateliers Jean Nouvel. (2017, noviembre 8).** Louvre Abu Dhabi. ArchDaily. https://www.archdaily.com/883157/louvre-abu-dhabi-atelier-jean-nouvel/5a01bf97b22e3816ed000250-louvre-abu-dhabi-atelier-jean-nouvel-photo?next_project=no
+
+**Ateliers Jean Nouvel. (2017, noviembre 8).** Louvre Abu Dhabi. ArchDaily. https://www.archdaily.com/883157/louvre-abu-dhabi-atelier-jean-nouvel/5a01bf6bb22e3816ed00024f-louvre-abu-dhabi-atelier-jean-nouvel-photo?next_project=no
+
+**Ateliers Jean Nouvel. (2017, noviembre 8).** Louvre Abu Dhabi. ArchDaily. https://www.archdaily.com/883157/louvre-abu-dhabi-atelier-jean-nouvel/5a01c01fb22e38b1dc0004e4-louvre-abu-dhabi-atelier-jean-nouvel-photo?next_project=no
+
+**Holl, S. (2008, julio 30).** The Nelson-Atkins Museum of Art / Steven Holl Architects. ArchDaily. https://www.archdaily.com/4369/the-nelson-atkins-museum-of-art-steven-holl-architects
+
+**Baan, I. (2007).** The Nelson-Atkins Museum of Arts. Steven Holl Architects. https://stevenholl.sfo2.digitaloceanspaces.com/uploads/projects/project-images/IwanBaan_NAMA_SHA1742_WH.jpg
+
+**Holl, S. (2008).** Gallery of The Nelson-Atkins Museum of Art. ArchDaily. https://www.archdaily.com/4369/the-nelson-atkins-museum-of-art-steven-holl-architects/500ef2d528ba0d0cc7000f2d-the-nelson-atkins-museum-of-art-steven-holl-architects-image?next_project=no
+
+**Baan, I. (2007).** The Nelson-Atkins Museum of Arts. Steven Holl Architects. https://stevenholl.sfo2.digitaloceanspaces.com/uploads/projects/project-images/IwanBaan_NAMA_SHA1586_WH.jpg
+
+**Baan, I. (2007).** The Nelson-Atkins Museum of Arts. Steven Holl Architects. https://stevenholl.sfo2.digitaloceanspaces.com/uploads/projects/project-images/IwanBaan_NAMA_SHA0861_WH.jpg
+
+**Ryan, A. (2008).** The Nelson-Atkins Museum of Art. ArchDaily. https://www.archdaily.com/4369/the-nelson-atkins-museum-of-art-steven-holl-architects/500ef29a28ba0d0cc7000f1e-the-nelson-atkins-museum-of-art-steven-holl-architects-image
+
+**Gintoff, V. (2016).** A 9 años de su inauguración, Iwan Baan fotografía el Museo Nelson-Atkins de Steven Holl. Plataforma Arquitectura. https://www.plataformaarquitectura.cl/cl/791485/iwan-baan-photographs-steven-holls-nelson-atkins-museum-for-its-ninth-birthday/57597ef7e58ece496c00009c-iwan-baan-photographs-steven-holls-nelson-atkins-museum-for-its-ninth-birthday-photo?next_project=no
+
+**Holl, S. (2020).** The Nelson Atkins Museum of Art. Arch2o. https://www.arch2o.com/nelson-atkins-museum-steven-holl/
+
+**Holl, S. (2007).** The Nelson-Atkins Museum of Arts. Steven Holl Architects. https://www.stevenholl.com/projects/nelson-atkins-museum-of-art
+
+**Holl, S. (2008).** Gallery of The Nelson-Atkins Museum of Art. ArchDaily. https://www.archdaily.com/4369/the-nelson-atkins-museum-of-art-steven-holl-architects/500ef25928ba0d0cc7000f13-the-nelson-atkins-museum-of-art-steven-holl-architects-image?next_project=no
+
+**Holl, S. (2008).** Gallery of The Nelson-Atkins Museum of Art. ArchDaily. https://www.archdaily.com/4369/the-nelson-atkins-museum-of-art-steven-holl-architects/500ef2e228ba0d0cc7000f30-the-nelson-atkins-museum-of-art-steven-holl-architects-image?next_project=no
+
+**Ryan, A. (2007).** The Nelson-Atkins Museum of Art de Steven Holl. Architonic. https://www.architonic.com/es/project/steven-holl-the-nelson-atkins-museum-of-art/5100135
