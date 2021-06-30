@@ -17,7 +17,7 @@ custom_edit_url: https://github.com/angelpinha/TEGA/blob/master/docs/24-criterio
 
 * Uso del color sobre las superficies de la arquitectura para estimular el sentido de la vista en la percepción del usuario.  
 
-* Plantear elementos de transición entre los usos públicos y privados para aumentar la privacidad del edificio conforme se accede adecuando las condiciones acústicas a la función de los espacios.
+* Plantear elementos de transición entre los usos públicos y privados para aumentar la privacidad del edificio conforme se accede, adecuando las condiciones acústicas a la función de los espacios.
 
 * Diseñar salas de exposición con variaciones en su escala para brindar la posibilidad de albergar obras de arte presentadas en diferentes formatos.
 
