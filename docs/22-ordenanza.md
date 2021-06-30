@@ -139,14 +139,4 @@ Para la intervención del terreno se especifican las siguientes condiciones:
 
 * Los retiros son de 6 m por cada fachada hacia la avenida y hacia la calle.
 
-* Disposición de cuarto de basura, calcular según:
-
-> **Oficina:** 1 m<sup>2</sup> x 200 m<sup>2</sup>
->
-> **Comercio:** 1 m<sup>2</sup> x 100 m<sup>2</sup>
->
-> **Restaurant o Café:** 1 m<sup>2</sup> x 200 m<sup>2</sup> y área mínima 4 m<sup>2</sup>.
-
-* Se debe respetar la fachada hacia la Av. Don Tulio Febres, no puede modificarse la intervención del Trolebús. El acceso vehicular al terreno se establece por medio de las calles secundarias.
-
----
+* Área destinada al cuartos de basura se calcula según la siguiente relación: **Oficina:** 1 m<sup>2</sup> x 200 m<sup>2</sup>, **Comercio:** 1 m<sup>2</sup> x 100 m<sup>2</sup>, **Restaurant o Café:** 1 m<sup>2</sup> x 200 m<sup>2</sup> y área mínima 4 m<sup>2</sup>.

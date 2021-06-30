@@ -224,3 +224,5 @@ custom_edit_url: https://github.com/angelpinha/TEGA/blob/master/docs/000-bibliog
 **Holl, S. (2008).** Gallery of The Nelson-Atkins Museum of Art. ArchDaily. https://www.archdaily.com/4369/the-nelson-atkins-museum-of-art-steven-holl-architects/500ef2e228ba0d0cc7000f30-the-nelson-atkins-museum-of-art-steven-holl-architects-image?next_project=no
 
 **Ryan, A. (2007).** The Nelson-Atkins Museum of Art de Steven Holl. Architonic. https://www.architonic.com/es/project/steven-holl-the-nelson-atkins-museum-of-art/5100135
+
+**Paparoni, J. (2012).** Photo of Merida, viewed from El Morro road. https://commons.wikimedia.org/wiki/File:Panorama_Merida.jpg

@@ -18,7 +18,9 @@ La parcela ubicada entre las calles 34 y 35 (a la izquierda del plano); cuenta c
 
 <!-- ![localizacion](./src/analisisTerreno/001-localizacion.jpg) -->
 
+> **Figura 72:**
 > *Localización del terreno*.
+> s*Fuente propia.*
 
 ## Variables Ambientales
 
@@ -30,7 +32,9 @@ Mérida se encuentra en la zona intertropical, situándose a 8<sup>॰</sup> de 
 
 <!-- ![incidenciaSolar](./src/analisisTerreno/002-incidenciaSolar.jpg) -->
 
+> **Figura 73:**
 > *Esquema de incidencia solar anual*.
+> *Fuente propia.*
 
 ### Temperatura
 
@@ -48,7 +52,9 @@ Los vientos predominantes durante el día inciden hacia el noreste y durante la 
 
 <!-- ![vientosPredominantes](./src/analisisTerreno/003-vientosPredominantes.jpg) -->
 
+> **Figura 74:**
 > *Direccionalidad de vientos predominantes*.
+> *Fuente propia.*
 
 ### Suelos
 
@@ -74,7 +80,9 @@ La pendiente del terreno es de 4,57% y puede considerarse sensiblemente plana po
 
 <!-- ![topografiaEspecifica](./src/analisisTerreno/004-topografiaEspecifica.jpg) -->
 
-> *Topografía específica del terreno, cada cota marca un diferencial de 0,3 m en pendiente ascendente hacia el Norte*.
+> **Figura 75:**
+> *Topografía específica del terreno, cada cota marca un diferencial de 0,5 m en pendiente ascendente hacia el Norte*.
+> *Fuente propia.*
 
 ## Variables Urbanas
 
@@ -92,10 +100,12 @@ El terreno se encuentra según La Ordenanza en La Zona AR-3, que se destina para
 
 <!-- ![usoSuelos](./src/analisisTerreno/005-usoSuelos.jpg) -->
 
-> **Esquema de uso de suelos:**
+> **Figura 76:**
+> *Esquema de uso de suelos.*
+> *Fuente propia.*
 >
 > Uso Residencial: Amarillo
->
+> 
 > Uso Educacional: Azul
 >
 > Uso Comercial: Rojo
@@ -106,6 +116,7 @@ El terreno se encuentra según La Ordenanza en La Zona AR-3, que se destina para
 >
 > Uso Militar: Verde
 
+
 ### Morfología del contexto
 
 El contexto se puede identificar a través de la construcción reticular que representan los laterales y fondo de la parcela; el frente asociado al terreno compone el uso vehicular de la avenida y una mayor amplitud espacial determinada por los espacios ocupados por la Facultad de Medicina.
@@ -114,7 +125,9 @@ El contexto se puede identificar a través de la construcción reticular que rep
 
 <!-- ![localizacion](./src/analisisTerreno/006-fondoFigura.jpg) -->
 
+> **Figura 77:**
 > *Esquema de Fondo-Figura*.
+> *Fuente propia.*
 
 La imagen que proyecta la ciudad en el sector de emplazamiento, se compone por una serie de edificaciones con características modernas en el cual el uso principal lo abarcan las residencias y el comercio. La cualidad de la manzana define espacios comprimidos que determinan su amplitud el ancho de la vía vehicular. La Av. Don Tulio Febres Cordero determina una vialidad amplia que expande la percepción espacial del sector.
 
@@ -122,7 +135,9 @@ La imagen que proyecta la ciudad en el sector de emplazamiento, se compone por u
 
 <!-- ![localizacion](./src/analisisTerreno/007-figuraFondo.jpg) -->
 
+> **Figura 78:**
 > *Esquema de Figura-Fondo*.
+> *Fuente propia.*
 
 ### Vialidad y transporte público
 
@@ -136,8 +151,10 @@ El sistema de trasporte público de la ciudad, cuenta con una serie de rutas de 
 
 <!-- ![viasTransporte](./src/analisisTerreno/008-viasTransporte.jpg) -->
 
+> **Figura 79:**
 > *Esquema de vialidad y transporte público*.
->
+> *Fuente propia.*
+> 
 > Vías de mayor afluencia vehicular: Naranja
 >
 > Vias de menor afluencia vehicular: Verde
