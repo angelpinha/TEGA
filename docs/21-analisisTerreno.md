@@ -20,7 +20,7 @@ La parcela ubicada entre las calles 34 y 35 (a la izquierda del plano); cuenta c
 
 > **Figura 72:**
 > *Localización del terreno*.
-> s*Fuente propia.*
+> *Fuente propia.*
 
 ## Variables Ambientales
 
